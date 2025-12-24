@@ -54,5 +54,5 @@ Creative software engineer who loves turning ideas into code.
 ---
 
 ## 🧩 Highlight Projects
-- 🔗 Project 1: [Repo Name](https://github.com/renowahyusanrama/ketenangan-jiwa)
-- 🔗 Project 2: [Repo Name](https://github.com/renowahyusanrama/Undangan-Digital)
+- 🔗 Project 1: [Ketenangan Jiwa](https://github.com/renowahyusanrama/ketenangan-jiwa)
+- 🔗 Project 2: [Undangan Digitalo](https://github.com/renowahyusanrama/Undangan-Digital)
