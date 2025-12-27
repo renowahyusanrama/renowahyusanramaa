@@ -15,7 +15,7 @@ Creative software engineer who loves turning ideas into code.
 - 💻 Interested in Front-End, UI/UX, and Web Development
 - 🌱 Currently learning: JavaScript, React, Node.js
 - 🤝 Open to collaborate on web projects
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **onmeren@gmail.com**
 
 ---
 
