@@ -3,7 +3,6 @@
 # Hi, I’m Reno 👋
 Creative software engineer who loves turning ideas into code.
 
-<!-- Optional: profile views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=renowahyusanrama&style=flat)
 
 </div>
@@ -20,7 +19,6 @@ Creative software engineer who loves turning ideas into code.
 ---
 
 ## 🌐 Socials
-> Ganti semua link di bawah dengan punyamu
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
@@ -31,7 +29,6 @@ Creative software engineer who loves turning ideas into code.
 ---
 
 ## 💻 Tech Stack
-> Tambah/kurangi sesuai skill kamu
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -47,7 +44,6 @@ Creative software engineer who loves turning ideas into code.
 ---
 
 ## 📊 GitHub Stats
-> Kalau suatu saat kartu error, biasanya karena limit/API layanan—coba refresh atau tunggu.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renowahyusanrama&show_icons=true&hide_title=true&theme=default)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=renowahyusanrama&theme=default)
@@ -57,4 +53,4 @@ Creative software engineer who loves turning ideas into code.
 
 ## 🧩 Highlight Projects
 - 🔗 Project 1: [Ketenangan Jiwa](https://github.com/renowahyusanrama/ketenangan-jiwa)
-- 🔗 Project 2: [Undangan Digitalo](https://github.com/renowahyusanrama/Undangan-Digital)
+- 🔗 Project 2: [Undangan Digital](https://github.com/renowahyusanrama/Undangan-Digital)
