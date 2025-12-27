@@ -39,6 +39,8 @@ Creative software engineer who loves turning ideas into code.
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
@@ -47,9 +49,9 @@ Creative software engineer who loves turning ideas into code.
 ## 📊 GitHub Stats
 > Kalau suatu saat kartu error, biasanya karena limit/API layanan—coba refresh atau tunggu.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renowahyusanrama&show_icons=true&hide_title=true)
-![Streak Stats](https://streak-stats.demolab.com?user=renowahyusanrama)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renowahyusanrama&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renowahyusanrama&show_icons=true&hide_title=true&theme=default)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=renowahyusanrama&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renowahyusanrama&layout=compact&theme=default)
 
 ---
 
